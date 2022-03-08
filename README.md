@@ -6,13 +6,11 @@ This program solves a lot of capacity-constrained problems. The inputs of the pr
 - Setup costs for each batch. 
 - Holding costs for each product. 
 
-Within the framework of these inputs, the program is expected to give the best solution for each
-period. The program should first check if the problem is feasible. If the problem is feasible, it should
+Within the framework of these inputs, the program is give the best solution for each
+period. The program first check if the problem is feasible. If the problem is feasible, it 
 solve the problem and print it on the screen as a list for each period.
 The second step can be called the name improvement. In the second stage of the program, if there is
-a better solution than the solution obtained, it should be displayed on the screen. Then, it should make
-a comparison between the first solution and the improved solution in terms of costs and print it on the
-screen.
+a better solution than the solution obtained, it be displayed on the screen. 
 
 ## Sample inputs and solution:
 ![1](https://user-images.githubusercontent.com/53883971/157088715-63b76abf-30dd-4630-bf21-34a4fdff335d.png)
