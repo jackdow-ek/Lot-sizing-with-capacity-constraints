@@ -53,7 +53,7 @@ totalDemand = demandList[0]
 totalCapacity = capacityList[0]
 feasible = False
 
-if(totalDemand<totalCapacity):#checking first elemnts
+if(totalDemand<=totalCapacity):#checking first elemnts
     print(totalDemand,"<",totalCapacity)
     feasible = True
 
