@@ -1,8 +1,8 @@
 # Lot-sizing-with-capacity-constraints
 This program solves a lot of capacity-constrained problems. The inputs of the program can be defined as: 
 
-- Demand (to be entered into the program as a python list) 
-- Capacity (input for each period as a python list) 
+- Demand 
+- Capacity 
 - Setup costs for each batch. 
 - Holding costs for each product. 
 
